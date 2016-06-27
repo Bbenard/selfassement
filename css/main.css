@@ -5,12 +5,15 @@ body{
 	font-family:"roboto condensed","poiret one";
 	line-height:1.5;
 	text-align:left;
+    margin :0px;
+    
 }
 header{
-background-color: black;
+background-color:white;
 position: fixed;
 height: 100px;
 width: 100%;
+opacity:0.9;
 
 }
 a {
@@ -18,14 +21,14 @@ a {
 		margin-left:60px;
 }
 a:link,a:visited{
-		 color:white;
+		 color:black;
 	}
 	a:hover,a:Active{
 		background-color:black; 
 		color:white;
 }
 mainheader nav{
-background-color:black;
+background-color:white;
 	height:60px;
 	border-radius:2%;
 	-moz-border-radius:2%;
@@ -43,7 +46,7 @@ header nav ul{
 		display:inline;
 	}
 	header nav a:link,.mainheader nav a:visited{
-		color:white;
+		color:black;
 		display: inline-block;
 	    padding: 10px 25px;
 		height:40px;
@@ -62,11 +65,15 @@ header nav ul{
 }
 .logo{
     float:left;
-    color:white;
+    color:black;
+    margin:0;
+    background-color:white;
+    height: 100px;
 }
 #page1{
-    height:960px;
+    height: 1100px;
     width:100%;
+  ; 
   
  
 }
