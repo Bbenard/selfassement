@@ -91,7 +91,15 @@ color:yellowgreen;
     background-color: white;
     text-align: center;
 }
-em{
+.aboutp{
+    width:46%;
+    margin:10px 20px;
+    float:left;
+    height:500px;
+    background-color: white;
+    text-align: center;
+}
+.em{
     text-align: center;
     
 }
