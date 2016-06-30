@@ -1,5 +1,5 @@
 body{
-    background-color: beige;
+    background-color:#C9C2B9;;
 	color:black;
 	font-size:87.5%;
 	font-family:"roboto condensed","poiret one";
@@ -82,6 +82,7 @@ text-align: center;
 height: 400px;
 margin:10px 20px;
 color:yellowgreen;
+    padding-top: 10;
 }
 .about{
     width:46%;
