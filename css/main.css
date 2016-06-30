@@ -100,13 +100,19 @@ color:yellowgreen;
     background-color: white;
     text-align: center;
 }
-.em{
-    text-align: center;
+.social-container{
+    text-align:center;
+    padding:20px;
+    border-top:groove;
+}
+
     
 }
-footer  ul li {
+footer{
     background-color: white;
-    height: 100px;
+   }
+footer  ul li {
+    height: 150px;
     float:right;
     padding:20px;
     display:inline;
