@@ -1,5 +1,5 @@
 body{
-    background-color:#C9C2B9;;
+    background-color:#C9C2B9;
 	color:black;
 	font-size:87.5%;
 	font-family:"roboto condensed","poiret one";
@@ -23,7 +23,7 @@ a:link,a:visited{
 		 color:black;
 	}
 	a:hover,a:Active{
-		background-color:black; 
+		background-color:; 
 		color:white;
 }
 mainheader nav{
@@ -99,6 +99,8 @@ color:yellowgreen;
     height:500px;
     background-color: white;
     text-align: center;
+    font-family:sans-serif;
+    font-size: 10px:
 }
 .social-container{
     text-align:center;
@@ -106,13 +108,11 @@ color:yellowgreen;
     border-top:groove;
 }
 
-    
-}
 footer{
-    background-color: white;
+    background-color:white;
    }
 footer  ul li {
-    height: 150px;
+    height: 200px;
     float:right;
     padding:20px;
     display:inline;
