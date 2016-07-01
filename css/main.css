@@ -112,8 +112,30 @@ footer{
     background-color:white;
    }
 footer  ul li {
-    height: 200px;
+    height:200px;
     float:right;
     padding:20px;
     display:inline;
+}
+#theform{
+	color:black;
+	background-color:white;
+	display:table;
+	padding:10px;
+	border:solid 1px white;
+	width:600px;
+    align-content: center;
+    height:400;
+}
+.row{
+	display:table-row;
+}
+.row label{
+	display:table-cell;
+	padding:10px;
+	text-align:right;
+}
+.row input{
+	display:table-cell;
+	padding:5px;
 }
